@@ -11,7 +11,7 @@ Funcionalidade: Login
     @sprint1 @logout @smoke
     Cenario: Usuário autenticado
         
-        Quando faço login com "graaziele@gail.com" e "123456"
+        Quando faço login com "graaziele@gmail.com" e "123456"
         Então vejo a mensagem de boas vindas "Olá, Graziele"
 
     @tentativa_login
