@@ -14,7 +14,7 @@ Before do
 end
 
 Before('@login') do
-  @usuario = { email: 'nao_usar@mark7.com', senha: '123456' }
+  @usuario = { email: 'graaziele@gmail.com', senha: '123456' }
 
   @login_page.acessa
   @login_page.logar(@usuario[:email], @usuario[:senha])

@@ -11,8 +11,8 @@ Funcionalidade: Login
     @sprint1 @logout @smoke
     Cenario: Usuário autenticado
         
-        Quando faço login com "eu@papito.io" e "123456"
-        Então vejo a mensagem de boas vindas "Olá, Fernando"
+        Quando faço login com "graaziele@gail.com" e "123456"
+        Então vejo a mensagem de boas vindas "Olá, Graziele"
 
     @tentativa_login
     Esquema do Cenario: Tentativa de login
